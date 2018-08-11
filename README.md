@@ -14,4 +14,22 @@ Descobri que o proprio framework django pode fazer o dump dos dados do banco e c
 # Front-end
 A solução proposta é simples, apenas uma página contendo a tabela de jogos da copa do mundo de 2002 feita apenas com bootstrap, tentei utilizar webscrap, porem por conta do tempo abandonei a ideia inicial.
 
-# Back-end    
+# Back-end
+# Probabilidades:
+12 = 2.8%
+11 = 5.55%
+10 = 8.33%
+9 = 11%
+8 = 13%
+7 = 16.33%
+6 = 63.88%
+5 = 41%
+4 = 39%
+3 = 36%
+2 = 33%
+1 = 30%
+
+# Checagem:
+```python
+    >>> python3.7 Parcheesi/resultados.py
+```
